@@ -2,7 +2,7 @@
 2014 总结和 2015 展望
 
 > 添加规范：  
-> 1. 在`Android 开源交流 n 群`就在 n 文件夹内以 GitHub 用户名为文件名新建 md 文件，如 trinea.md。  
+> 1. 在`QQ n 群`就在 n 文件夹内以 GitHub 用户名为文件名新建 md 文件，如 trinea.md。  
 > 2. md 文件包含`2014 总结`和`2015 展望`两部分，技术与非技术皆可  
 > 3. 在下面`所有`部分添加索引
 
@@ -13,7 +13,7 @@
 #### 1 群
 简介 | 作者
 :------------- | :-------------
-[开源的一年](../1/trinea.md) | [Trinea](https://github.com/trinea)
+[开源的一年](../master/1/trinea.md) | [Trinea](https://github.com/trinea)
 
 #### 2 群
 简介 | 作者
