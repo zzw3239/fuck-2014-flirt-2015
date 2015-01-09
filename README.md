@@ -14,32 +14,32 @@
 待补充
 
 ### 所有
-#### 1 群
+#### [1 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
 [开源的一年](../master/1/trinea.md) | [Trinea](https://github.com/trinea)
 
-#### 2 群
+#### [2 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
  | 
 
-#### 3 群
+#### [3 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
 |[拧巴的一年](../master/3/zhengtao.md) | [zhengtao](http://www.weibo.com/206115528)
 
-#### 4 群
+#### [4 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
 | 
 
-#### 5 群
+#### [5 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
 | 
 
-#### 6 群
+#### [6 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
 :------------- | :-------------
 | 
