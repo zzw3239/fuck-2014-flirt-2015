@@ -1,10 +1,10 @@
 [Trinea](https://github.com/trinea) 的 2014 -> 2015
 -------------
 ### 一. 2014 总结
-2014 总体还是比较满意的，好吧，我承认给自己打 80 分主要是因为跟 [@Almitra](http://weibo.com/Almitra) 走到了一起了。  
+2014 总体还是比较满意的，好吧，我承认给自己打 80 分主要是因为跟 [@Almitra](http://www.weibo.com/almitralin) 走到了一起了。  
 
 #### 成果
-1. 跟九年前一起进入同一个学院的小美女 [@Almitra](http://weibo.com/Almitra) 走到了一起。两个人在不同时间相继在金山、阿里实习，也只有对方才能懂金山食堂的好、阿里的八卦，平行时间线内的两个人在今年 7 月份相交了。  
+1. 跟九年前一起进入同一个学院的小美女 [@Almitra](http://www.weibo.com/almitralin) 走到了一起。两个人在不同时间相继在金山、阿里实习，也只有对方才能懂金山食堂的好、阿里的八卦，平行时间线内的两个人在今年 7 月份相交了。  
 
 2. 结实了很多不错的业内朋友，包括现在这个[GitHub Organization](https://github.com/aosp-exchange-group) 下的很多人。  
 
