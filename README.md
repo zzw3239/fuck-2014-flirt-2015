@@ -28,6 +28,7 @@
 简介 | 作者
 :------------- | :-------------
 |[拧巴的一年](../master/3/zhengtao.md) | [zhengtao](http://www.weibo.com/206115528)
+|[懂事的一年](../master/3/vNcdkguqHUh.md) | [静宏](https://github.com/vNcdkguqHUh)
 
 #### [4 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
