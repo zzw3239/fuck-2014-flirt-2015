@@ -18,6 +18,7 @@
 简介 | 作者
 :------------- | :-------------
 [开源的一年](../master/1/trinea.md) | [Trinea](https://github.com/trinea)
+[进步的一年](../master/1/xu6148152.md) | [xu6148152](https://github.com/xu6148152)
 
 #### [2 群](https://github.com/aosp-exchange-group/about)
 简介 | 作者
