@@ -13,7 +13,7 @@
 4. 12月，儿子出生。
 
 #### 不足
-1. 我的[个人博客](www.rengwuxian.com)的建立是和 [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) 的开源是同时的，由于 [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) 开源之后发生一些意外情况（某厂的邀请、项目的各种bug反馈和功能建议、新工作的面试），没有时间来料理博客，所以我的博客目前可以说是很烂。
+1. 我的[个人博客](http://www.rengwuxian.com/)的建立是和 [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) 的开源是同时的，由于 [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) 开源之后发生一些意外情况（某厂的邀请、项目的各种bug反馈和功能建议、新工作的面试），没有时间来料理博客，所以我的博客目前可以说是很烂。
 
 2. 10月底公司解散后:P，原计划年后再找工作，制定了一套集中式的年前学习计划，但由于提前入职 FlipBoard ，重学遍数据结构和算法的计划被延后了。
 
